@@ -19,6 +19,7 @@ you will solve about
 - Hashmap
 - heap
 
-https://leetcode.com/study-plan/leetcode-75/?progress=1se1sur
+https://leetcode.com/study-plan/leetcode-75
+
 
 
