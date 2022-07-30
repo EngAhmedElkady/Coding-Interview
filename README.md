@@ -9,3 +9,8 @@ This study plan is for those who want to prepare for technical interviews but ar
 https://leetcode.com/study-plan/leetcode-75/?progress=1se1sur
 
 
+## Linked-List
+
+| name    | problem | status | code | video |
+| :---:   | :---:   | :---:  | :---:|:---:  |
+| Add Two Numbers | https://leetcode.com/problems/add-two-numbers/   | Medium    |      | NO|
