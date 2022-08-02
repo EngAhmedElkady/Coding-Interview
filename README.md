@@ -14,3 +14,9 @@ https://leetcode.com/study-plan/leetcode-75/?progress=1se1sur
 | name    | problem | status | code | video |
 | :---:   | :---:   | :---:  | :---:|:---:  |
 | Add Two Numbers | https://leetcode.com/problems/add-two-numbers/   | Medium    |      | NO|
+
+
+## Hash Table
+| name    | problem | status | code | video |
+| :---:   | :---:   | :---:  | :---:|:---:  |
+| 378. Kth Smallest Element in a Sorted Matrix|https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | Medium    |      | NO|
